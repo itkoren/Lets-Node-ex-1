@@ -26,7 +26,8 @@ function sentiment(data, callback) {
       score += rate;
     }
   }
-	
+
+  // Make it Async
   setTimeout(function() {
     callback(null, score);
   }, 0);
