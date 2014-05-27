@@ -1,6 +1,6 @@
 [submodule "examples/callback-pattern"]
 	path = examples/callback-pattern
-	url = git@github.com:itkoren/Lets-Node-exp-callback-pattern.git
+	url = https://github.com/itkoren/Lets-Node-exp-callback-pattern.git
 [submodule "examples/event-emitter-pattern"]
 	path = examples/event-emitter-pattern
-	url = git@github.com:itkoren/Lets-Node-exp-event-emitter-pattern.git
+	url = https://github.com/itkoren/Lets-Node-exp-event-emitter-pattern.git
